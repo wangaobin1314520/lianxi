@@ -1,4 +1,4 @@
-# demo2
+# appcli
 
 ## Project setup
 ```
